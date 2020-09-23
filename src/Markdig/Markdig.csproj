@@ -2,5 +2,6 @@
   <PropertyGroup>
     <PackageId>Markdig</PackageId>
   </PropertyGroup>
+  <ItemGroup> <Reference Include="netstandard" /> </ItemGroup>
   <Import Project="Markdig.targets" />
 </Project>
